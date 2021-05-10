@@ -19,7 +19,6 @@ jobs:
         - colcon/colcon-bundle
         - colcon/colcon-ros-bundle
         - colcon/colcon-sanitizer-reports
-        - ros-tooling/action-amazon-chime
         - ros-tooling/action-pypi
         - ros-tooling/action-ros-ci-template
         - ros-tooling/cross_compile
