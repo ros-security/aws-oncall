@@ -22,7 +22,6 @@ jobs:
         - ros-tooling/action-pypi
         - ros-tooling/action-ros-ci-template
         - ros-tooling/cross_compile
-        - ros-tooling/github-contribution-report-generator
         - ros-tooling/aws-oncall
         - ros-tooling/action-repository-activity
         - ros-tooling/action-ros-lint
